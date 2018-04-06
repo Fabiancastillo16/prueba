@@ -16,7 +16,7 @@
             <!--
             contenedor que permite darle formato a los bordes de la página
             -->
-            <Border Background="Wheat" BorderBrush="Yellow" BorderThickness="2">
+            <Border Background="Wheat" BorderBrush="Blue" BorderThickness="2">
                 <Grid>
                     <Grid.RowDefinitions>
                         <RowDefinition Height="*"/>
@@ -34,7 +34,7 @@
                         -->
                     <StackPanel Grid.Row="1">
                         <StackPanel>
-                            <Border BorderThickness="2" BorderBrush="Black">
+                            <Border BorderThickness="3" BorderBrush="Black">
                                 <Grid>
                                     <Grid.RowDefinitions>
                                         <RowDefinition/>
