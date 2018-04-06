@@ -7,7 +7,7 @@
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>c337134a-a215-4821-9534-fbfe75603110</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\ProyectoOT\ProyectoOT.Windows\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\prueba\ProyectoOT\ProyectoOT.Windows\obj\x86\Debug\</IntermediateOutputPath>
     <RegisteredManifestChecksum>7A5AA1B8863F66D8520110EF6DA79C2CBBAD037BF7C25361D2B7B810FAA13A9F</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>c337134a-a215-4821-9534-fbfe75603110_1.0.0.0_x86__m5qx879mx430t</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>c337134a-a215-4821-9534-fbfe75603110_m5qx879mx430t!App</RegisteredUserModeAppID>
@@ -17,72 +17,72 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\ProyectoOT\ProyectoOT.Windows\bin\x86\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\prueba\ProyectoOT\ProyectoOT.Windows\bin\x86\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-24T18:33:05.173</Modified>
+      <Modified>2018-04-06T15:14:16.281</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\ProyectoOT\ProyectoOT.Windows\bin\x86\Debug\ProyectoOT.Windows.exe">
+    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\prueba\ProyectoOT\ProyectoOT.Windows\bin\x86\Debug\ProyectoOT.Windows.exe">
       <PackagePath>ProyectoOT.Windows.exe</PackagePath>
-      <Modified>2018-01-24T20:07:02.305</Modified>
+      <Modified>2018-04-06T15:14:15.780</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\SQLite.WinRT81\3.21.0\Redist\Debug\x86\sqlite3.dll">
       <PackagePath>sqlite3.dll</PackagePath>
       <Modified>2018-01-18T11:50:24.888</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\ProyectoOT\ProyectoOT.Windows\Common\datos.txt">
+    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\prueba\ProyectoOT\ProyectoOT.Windows\Common\datos.txt">
       <PackagePath>Common\datos.txt</PackagePath>
-      <Modified>2018-01-05T17:32:27.427</Modified>
+      <Modified>2018-04-06T15:12:20.365</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\ProyectoOT\ProyectoOT.Windows\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\prueba\ProyectoOT\ProyectoOT.Windows\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-03-14T13:55:28.000</Modified>
+      <Modified>2018-04-06T15:12:20.357</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\ProyectoOT\ProyectoOT.Windows\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\prueba\ProyectoOT\ProyectoOT.Windows\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-03-14T13:55:28.000</Modified>
+      <Modified>2018-04-06T15:12:20.358</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\ProyectoOT\ProyectoOT.Windows\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\prueba\ProyectoOT\ProyectoOT.Windows\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-03-14T13:55:28.000</Modified>
+      <Modified>2018-04-06T15:12:20.359</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\ProyectoOT\ProyectoOT.Windows\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\prueba\ProyectoOT\ProyectoOT.Windows\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-03-14T13:55:28.000</Modified>
+      <Modified>2018-04-06T15:12:20.361</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\ProyectoOT\ProyectoOT.Windows\Imagenes\descarga.jpg">
+    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\prueba\ProyectoOT\ProyectoOT.Windows\Imagenes\descarga.jpg">
       <PackagePath>Imagenes\descarga.jpg</PackagePath>
-      <Modified>2017-12-29T15:19:41.542</Modified>
+      <Modified>2018-04-06T15:12:20.384</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\ProyectoOT\ProyectoOT.Windows\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\prueba\ProyectoOT\ProyectoOT.Windows\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-01-07T21:35:23.858</Modified>
+      <Modified>2018-04-06T15:14:15.173</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\ProyectoOT\ProyectoOT.Windows\bin\x86\Debug\View\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\prueba\ProyectoOT\ProyectoOT.Windows\bin\x86\Debug\View\MainPage.xbf">
       <PackagePath>View\MainPage.xbf</PackagePath>
-      <Modified>2018-01-23T19:09:11.165</Modified>
+      <Modified>2018-04-06T15:14:15.173</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\ProyectoOT\ProyectoOT.Windows\bin\x86\Debug\View\TaskListPage.xbf">
+    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\prueba\ProyectoOT\ProyectoOT.Windows\bin\x86\Debug\View\TaskListPage.xbf">
       <PackagePath>View\TaskListPage.xbf</PackagePath>
-      <Modified>2018-01-24T14:40:23.957</Modified>
+      <Modified>2018-04-06T15:14:15.173</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\ProyectoOT\ProyectoOT.Windows\bin\x86\Debug\View\VistaPrincipal.xbf">
+    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\prueba\ProyectoOT\ProyectoOT.Windows\bin\x86\Debug\View\VistaPrincipal.xbf">
       <PackagePath>View\VistaPrincipal.xbf</PackagePath>
-      <Modified>2018-01-23T19:09:11.165</Modified>
+      <Modified>2018-04-06T15:14:15.173</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\ProyectoOT\ProyectoOT.Windows\bin\x86\Debug\ProyectoOT.Windows.xr.xml">
+    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\prueba\ProyectoOT\ProyectoOT.Windows\bin\x86\Debug\ProyectoOT.Windows.xr.xml">
       <PackagePath>ProyectoOT.Windows.xr.xml</PackagePath>
-      <Modified>2018-01-24T14:40:23.922</Modified>
+      <Modified>2018-04-06T15:12:20.589</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\ProyectoOT\ProyectoOT.Windows\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\prueba\ProyectoOT\ProyectoOT.Windows\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2018-01-24T18:33:04.910</Modified>
+      <Modified>2018-04-06T15:14:16.052</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
