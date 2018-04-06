@@ -1,0 +1,17 @@
+C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\DataAccessLibrary\bin\Debug\DataAccessLibrary.pri
+C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojResolveAssemblyReference.cache
+C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\DataAccessLibrary\obj\Debug\priconfig.xml
+C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\DataAccessLibrary\obj\Debug\priconfig.xml.intermediate
+C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\DataAccessLibrary\obj\Debug\layout.resfiles
+C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\DataAccessLibrary\obj\Debug\layout.resfiles.intermediate
+C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\DataAccessLibrary\obj\Debug\resources.resfiles
+C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\DataAccessLibrary\obj\Debug\resources.resfiles.intermediate
+C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\DataAccessLibrary\obj\Debug\pri.resfiles
+C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\DataAccessLibrary\obj\Debug\pri.resfiles.intermediate
+C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\DataAccessLibrary\obj\Debug\qualifiers.txt
+C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\DataAccessLibrary\obj\Debug\qualifiers.txt.intermediate
+C:\Users\frojas\Documents\Visual Studio 2013\Projects\ProyectoOT\DataAccessLibrary\obj\Debug\MultipleQualifiersPerDimensionFound.txt

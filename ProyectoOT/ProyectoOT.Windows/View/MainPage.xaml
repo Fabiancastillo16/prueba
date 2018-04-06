@@ -1,0 +1,24 @@
+﻿<Page
+    x:Class="ProyectoOT.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ProyectoOT"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+       
+    
+    <Grid Background="Wheat">
+        
+        
+        
+        <Button Name="addButton" Content="Agregar tarea" HorizontalAlignment="Center" Margin="348,229,309,0" VerticalAlignment="Top" Width="709" Height="112" FontSize="30" Foreground="Black" Click="addButton_Click"/>
+        <Button Name="ShowButton" Content="Ver listado tareas" HorizontalAlignment="Center" Margin="348,396,309,0" VerticalAlignment="Top" Width="709" Height="112" FontSize="30" Foreground="Black" Click="ShowButton_Click"  />
+        
+
+        <TextBlock  Margin="1137,31,0,0" TextWrapping="Wrap" Text="..." VerticalAlignment="Top" Height="43" Width="174"/>
+        <TextBlock  Height="76" Margin="543,29,240,0" TextWrapping="Wrap" Text="Menu de tareas" VerticalAlignment="Top" Width="583" Foreground="Black" FontSize="50" />
+    </Grid>
+    
+</Page>
